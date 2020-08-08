@@ -1,6 +1,3 @@
-# pythonics 🐍
-My Personal Project repository, all written in 3.7.
+# 𝐜𝐨𝐦𝐩𝐬𝐜𝐢𝐨𝐧𝐢𝐜𝐬 💻🤖
 
-Pythonic means code that doesn't just get the syntax right but that follows the conventions of the Python community and uses the language
-in the way it is intended to be used. This resonates with me until I do some real projects here. Mostly looking for Data manipulation and generally cool python best practices/unconventional tricks for clean automation scripts in the future.
-
+Compscionics is something of an idiomatic Computer Science journey-- following the syntax of a Computer Science programmer/Software Engineer through a pseudo-education track, and immersive experience within the community to discover a niche in a world I've admired, but have been a little fearful to pursue. This resonates with me. My journey, as well as my project experience will all be noted here.
